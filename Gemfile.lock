@@ -3,7 +3,7 @@ PATH
   specs:
     ruby-openai (6.3.1)
       event_stream_parser (>= 0.3.0, < 2.0.0)
-      faraday (>= 1)
+      faraday (>= 0.17.6)
       faraday-multipart (>= 1)
 
 GEM
